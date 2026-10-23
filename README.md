@@ -12,10 +12,11 @@ A self-directed aerospace engineering project designing and building a custom fl
 * **Actuation:** Dual 9g Micro Servos driving a 3D-printed gimbal assembly
 * **CAD Software:** Autodesk Fusion 360
 * **Firmware:** C++ (Closed-loop PID control algorithm)
+* **Rocket Sim** Fins have a mass of 0.01 and Coefficient of drag of 0 (for simulattion purposes, actual rocket will not have fins)
 
 ## Video Demonstrations & Testing
-* [📺 Watch 15-Sec Gimbal Actuation & Servo Test (YouTube)](YOUR_YOUTUBE_LINK_HERE)
-* [📺 Watch Static Motor Burn & Telemetry Test (YouTube)](YOUR_YOUTUBE_LINK_HERE)
+* [📺 Watch Gimbal Actuation & Servo Test (YouTube)]((https://www.youtube.com/@DavidGutierrez-k6c/shorts))
+
 
 ## Key Technical Achievements
 1. Hand-wired SPI data bus resolving multi-device bus conflicts between BMP280 and MPU 9265.
