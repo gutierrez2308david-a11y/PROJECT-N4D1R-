@@ -20,5 +20,5 @@ A self-directed aerospace engineering project designing and building a custom fl
 
 ## Key Technical Achievements
 1. Hand-wired SPI data bus resolving multi-device bus conflicts between BMP280 and MPU 9265.
-2. Programmed discrete PID loop in C++ to process sensor telemetry and calculate real-time servo gimbal angles.
+2. Programmed PID loop in C++ to process sensor telemetry and calculate real-time servo gimbal angles.
 3. Designed and FDM 3D-printed structural gimbal mounts in Fusion 360 to withstand motor burn stresses.
