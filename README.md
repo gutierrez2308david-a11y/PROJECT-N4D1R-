@@ -9,7 +9,7 @@ A self-directed aerospace engineering project designing and building a custom fl
 * **Microcontroller:** Teensy 4.1 (ARM Cortex-M7 @ 600 MHz)
 * **IMU:** MPU 9265 (9-DOF Accelerometer/Gyroscope/Magnetometer) via SPI Protocol
 * **Altimeter:** BMP280 Barometric Pressure Sensor via SPI Protocol
-* **Actuation:** Dual 9g Micro Servos driving a 3D-printed gimbal assembly
+* **Actuation:** Dual B13DLM V2 servos driving a 3D-printed gimbal assembly
 * **CAD Software:** Autodesk Fusion 360
 * **Firmware:** C++ (Closed-loop PID control algorithm)
 * **Rocket Sim** Fins have a mass of 0.01 and Coefficient of drag of 0 (for simulattion purposes, actual rocket will not have fins)
