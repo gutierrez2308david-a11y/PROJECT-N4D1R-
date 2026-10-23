@@ -12,7 +12,7 @@ A self-directed aerospace engineering project designing and building a custom fl
 * **Actuation:** Dual B13DLM V2 servos driving a 3D-printed gimbal assembly
 * **CAD Software:** Autodesk Fusion 360
 * **Firmware:** C++ (Closed-loop PID control algorithm)
-* **Rocket Sim** Fins have a mass of 0.01 and Coefficient of drag of 0 (for simulattion purposes, actual rocket will not have fins)
+* **Rocket Sim:** Fins have a mass of 0.01 and Coefficient of drag of 0 (for simulation purposes only, actual rocket will not have fins)(Ester F-15 Motor)
 
 ## Video Demonstrations & Testing
 * [📺 Watch Gimbal Actuation & Servo Test https://www.youtube.com/@DavidGutierrez-k6c/shorts
