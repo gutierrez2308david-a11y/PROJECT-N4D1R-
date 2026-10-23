@@ -15,7 +15,7 @@ A self-directed aerospace engineering project designing and building a custom fl
 * **Rocket Sim** Fins have a mass of 0.01 and Coefficient of drag of 0 (for simulattion purposes, actual rocket will not have fins)
 
 ## Video Demonstrations & Testing
-* [📺 Watch Gimbal Actuation & Servo Test (YouTube)]((https://www.youtube.com/@DavidGutierrez-k6c/shorts))
+* [📺 Watch Gimbal Actuation & Servo Test https://www.youtube.com/@DavidGutierrez-k6c/shorts
 
 
 ## Key Technical Achievements
